@@ -1,7 +1,21 @@
 # License Plate Detection System 🚗
 
 An advanced, real-time vehicle license plate detection and tracking system powered by YOLOv11, computer vision, and ensemble OCR methods. Built with FastAPI, React, and SQLite for efficient end-to-end processing.
-
+<p align="center">
+  <img src="1.png" alt="OCR and Axle counter" width="300"/>
+  <br>
+  <em>OCR and Axle counter</em>
+</p>
+<p align="center">
+  <img src="2.png" alt="OCR and Axle counter" width="300"/>
+  <br>
+  <em>OCR and Axle counter</em>
+</p>
+<p align="center">
+  <img src="3.png" alt="OCR and Axle counter" width="300"/>
+  <br>
+  <em>OCR and Axle counter</em>
+</p>
 ## 🌟 Features
 
 - Real-time license plate detection and tracking
