@@ -32,6 +32,13 @@ An advanced, real-time vehicle license plate detection and tracking system power
 - Searchable plate database
 - Real-time statistics dashboard
 - Debug image saving for system verification
+<p align="center">
+  <img src="results.png" alt="OCR and Axle counter" width="250" height="200"/>
+  <img src="labels.jpg" alt="OCR and Axle counter" width="250" height="200"/>
+  <img src="val_batch0_labels.jpg" alt="OCR and Axle counter" width="250" height="200"/>
+  <br>
+  <em>Model Training Results</em>
+</p>
 
 # 🛠️ Technology Stack
 
