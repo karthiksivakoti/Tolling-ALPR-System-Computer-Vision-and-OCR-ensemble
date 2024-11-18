@@ -1,4 +1,4 @@
-# License Plate Detection System 🚗
+# Tolling ALPR System Computer Vision, OCR ensemble, and Axle counter 🚗
 
 An advanced, real-time vehicle license plate detection and tracking system powered by YOLOv11, computer vision, and ensemble OCR methods. Built with FastAPI, React, and SQLite for efficient end-to-end processing.
 <p align="center">
