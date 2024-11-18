@@ -27,6 +27,7 @@ An advanced, real-time vehicle license plate detection and tracking system power
   <br>
   <em>OCR and Axle counter</em>
 </p>
+
 ## 🌟 Features
 
 - Real-time license plate detection and tracking
