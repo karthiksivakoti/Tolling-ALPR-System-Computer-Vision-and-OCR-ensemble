@@ -13,6 +13,11 @@
 
 An advanced, real-time vehicle license plate detection and tracking system powered by YOLOv11, computer vision, and ensemble OCR methods. Built with FastAPI, React, and SQLite for efficient end-to-end processing.
 <p align="center">
+  <img src="ALPR.png" alt="ALPR Dashboard" width="250" height="200"/>
+  <br>
+  <em>ALPR Live Dashboard</em>
+</p>
+<p align="center">
   <img src="1.png" alt="OCR and Axle counter" width="250" height="200"/>
   <img src="2.png" alt="OCR and Axle counter" width="250" height="200"/>
   <img src="3.png" alt="OCR and Axle counter" width="250" height="200"/>
